@@ -1,0 +1,9 @@
+has order: LIFO or FIFO
+
+LINEAR data structure
+
+push
+
+pop
+
+peek
